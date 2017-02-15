@@ -21,7 +21,7 @@ var projects =[
 
   {
 	name: 'JavaScript Calculator',
-	img: './images/Calculator.png',
+	img: './images/calculator.png',
 	url: 'https://amran16.github.io/js_calculator'
   }
 
