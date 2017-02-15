@@ -22,7 +22,8 @@ var projects =[
   {
 	name: 'JavaScript Calculator',
 	img: './images/calculator.png',
-	url: 'https://amran16.github.io/js_calculator'
+  url: 'http://codepen.io/maryam106/pen/apZxyM'
+	//url: 'https://amran16.github.io/js_calculator'
   }
 
 ]
@@ -33,9 +34,6 @@ projects.map(function(item){
   var title = item.name,
       image = item.img,
     linkUrl = item.url;
-
-  var description = item.id;
-
 
 	$('.cards').append(`
 		<a class="ui fluid card" target="_blank" href=${linkUrl}>
