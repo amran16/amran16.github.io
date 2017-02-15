@@ -15,7 +15,7 @@ var projects =[
   {
 	name: 'Wikipedia Viewer',
 	img: './images/wiki.png',
-	url: 'https://amran16.github.io/weather_app'
+	url: 'http://codepen.io/maryam106/pen/OWQvwG'
   //url: 'http://codepen.io/maryam106/full/OWQvwG/' //doesn't work with full page
   },
 
@@ -40,7 +40,7 @@ projects.map(function(item){
 	$('.cards').append(`
 		<a class="ui fluid card" target="_blank" href=${linkUrl}>
 			<div class="image">
-			  <img src=${image} alt=${name} class="cardImage">
+			  <img src=${image} alt=${name}>
 			</div>
 			  <div class="ui center aligned content">${title}</div>
 		</a>
