@@ -73,16 +73,14 @@ projects.map(function(item){
       image = item.img,
     linkUrl = item.url,
     info = item.detail;
+    //<h7>${info}</h7>
 
 	$('.flex-container').append(`
 			<div class='flex-item'>
        <a target='_blank' href=${linkUrl}>
         <img src=${image} alt=${title} class='image'>
          <h3 class='title'>${title}</h3>
-         <h7>${info}</h7>
         </a>
 			 </div>
 		`)
-
-    //$('.flex-item').css('background-image', `img(${image})`);
 });

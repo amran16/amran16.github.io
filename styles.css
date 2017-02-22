@@ -1,7 +1,7 @@
 body {
     padding-top: 70px;
-
     text-align: center;
+    background-color: #FDF5E6;
     /* #F6F6F6 #F5F3EE #F0F8FF #FFEFD5*/
 }
 
@@ -52,7 +52,7 @@ h2{
 }
 
 #projects{
-  background-color: #FDF5E6;
+
 }
 
 .flex-container {
