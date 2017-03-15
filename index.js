@@ -64,6 +64,14 @@ var projects =[
     url: 'http://codepen.io/maryam106/full/xgLbWE',
     detail: 'React'
   },
+  {
+  	name: 'Camper Leaderboard',
+  	img: './images/leaderboard.png',
+    //url: 'https://amran16.github.io/markdown_previewer',
+    url: 'https://amran16.github.io/leaderboard/',
+    detail: 'React'
+  },
+
 
 ]
 
