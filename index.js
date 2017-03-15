@@ -10,8 +10,8 @@ var projects =[
   {
   	name: 'Local Weather App',
   	img: './images/weather.png',
-    url: 'https://amran16.github.io/weather_app',
-  	//url: 'http://codepen.io/maryam106/full/RGXwex'
+    //url: 'https://amran16.github.io/weather_app',
+  	url: 'http://codepen.io/maryam106/full/RGXwex'
     detail: 'jquery & ajax'
   },
 
@@ -71,13 +71,12 @@ var projects =[
     detail: 'React'
   }
   {
-  	name: 'Markdown Previwer',
-  	img: './images/markdown.png',
-    //url: 'https://amran16.github.io/markdown_previewer',
-    url: 'http://codepen.io/maryam106/full/xgLbWE',
-    detail: 'React'
-  },
-
+  	name: 'JavaScript Calculator',
+  	img: './images/calculator.png',
+    //url: 'http://codepen.io/maryam106/full/apZxyM'
+  	url: 'https://amran16.github.io/js_calculator',
+    detail: 'jQuery'
+  }
 
 ]
 
