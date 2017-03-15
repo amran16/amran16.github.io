@@ -11,7 +11,7 @@ var projects =[
   	name: 'Local Weather App',
   	img: './images/weather.png',
     //url: 'https://amran16.github.io/weather_app',
-  	url: 'http://codepen.io/maryam106/full/RGXwex'
+  	url: 'http://codepen.io/maryam106/full/RGXwex',
     detail: 'jquery & ajax'
   },
 
@@ -67,16 +67,10 @@ var projects =[
   {
   	name: 'Camper Leaderboard',
   	img: './images/leaderboard.png',
-    url: 'https://amran16.github.io/leaderboard/',
+    url: 'https://amran16.github.io/leaderboard',
     detail: 'React'
-  }
-  {
-  	name: 'JavaScript Calculator',
-  	img: './images/calculator.png',
-    //url: 'http://codepen.io/maryam106/full/apZxyM'
-  	url: 'https://amran16.github.io/js_calculator',
-    detail: 'jQuery'
-  }
+  },
+  
 
 ]
 
