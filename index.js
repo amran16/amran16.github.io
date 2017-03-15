@@ -67,7 +67,6 @@ var projects =[
   {
   	name: 'Camper Leaderboard',
   	img: './images/leaderboard.png',
-    //url: 'https://amran16.github.io/markdown_previewer',
     url: 'https://amran16.github.io/leaderboard/',
     detail: 'React'
   },
