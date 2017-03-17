@@ -3,7 +3,8 @@ var projects =[
   {
   	name: 'Random Quote Machine',
   	img: './images/quote.png',
-  	url: 'http://codepen.io/maryam106/full/zNdXrV',
+  	//url: 'http://codepen.io/maryam106/full/zNdXrV',
+    url: 'https://amran16.github.io/random_quote',
     detail: 'jquery & ajax'
   },
 
@@ -18,14 +19,13 @@ var projects =[
   {
   	name: 'Wikipedia Viewer',
   	img: './images/wiki.png',
-  	url: 'http://codepen.io/maryam106/full/OWQvwG',
+    url: 'https://amran16.github.io/wikipedia_viewer',
     detail: 'jquery & ajax'
   },
 
   {
   	name: 'JavaScript Calculator',
   	img: './images/calculator.png',
-    //url: 'http://codepen.io/maryam106/full/apZxyM'
   	url: 'https://amran16.github.io/js_calculator',
     detail: 'jQuery'
   },
@@ -70,7 +70,7 @@ var projects =[
     url: 'https://amran16.github.io/leaderboard',
     detail: 'React'
   },
-  
+
 
 ]
 
@@ -88,6 +88,6 @@ projects.map(function(item){
         <img src=${image} alt=${title} class='image'>
          <h3 class='title'>${title}</h3>
         </a>
-			 </div>
+			</div>
 		`)
 });
