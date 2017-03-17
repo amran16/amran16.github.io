@@ -3,7 +3,6 @@ var projects =[
   {
   	name: 'Random Quote Machine',
   	img: './images/quote.png',
-  	//url: 'http://codepen.io/maryam106/full/zNdXrV',
     url: 'https://amran16.github.io/random_quote',
     detail: 'jquery & ajax'
   },
