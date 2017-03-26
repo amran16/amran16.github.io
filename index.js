@@ -3,7 +3,8 @@ var projects =[
   {
   	name: 'Random Quote Machine',
   	img: './images/quote.png',
-    url: 'https://amran16.github.io/random_quote',
+    url: 'http://codepen.io/maryam106/full/zNdXrV',
+    //url: 'https://amran16.github.io/random_quote',
     detail: 'jquery & ajax'
   },
 
@@ -69,6 +70,18 @@ var projects =[
     url: 'https://amran16.github.io/leaderboard',
     detail: 'React'
   },
+  {
+  	name: 'Pomodor Clock',
+  	img: './images/pomodor.png',
+    url: 'https://amran16.github.io/pomodoro',
+    detail: 'JavaScript'
+  },
+  {
+  	name: 'Yelpcamp',
+  	img: './images/yelpcamp.png',
+    url: 'https://yelpcampsite.herokuapp.com',
+    detail: 'Node & Express'
+  }
 
 
 ]
