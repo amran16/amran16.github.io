@@ -1,28 +1,42 @@
 var projects =[
 
   {
-  	name: 'Random Quote Machine',
-  	img: './images/quote.png',
-    url: 'http://codepen.io/maryam106/full/zNdXrV',
-    //url: 'https://amran16.github.io/random_quote',
-    detail: 'jquery & ajax'
+  	name: 'Night Life App',
+  	img: './images/nightlife.png',
+  	url: 'https://nightlifeproject.herokuapp.com/bars',
+    detail: 'Node, Express & MongoDB'
   },
-
   {
-  	name: 'Local Weather App',
-  	img: './images/weather.png',
-    //url: 'https://amran16.github.io/weather_app',
-  	url: 'http://codepen.io/maryam106/full/RGXwex',
-    detail: 'jquery & ajax'
+  	name: 'Yelpcamp',
+  	img: './images/yelpcamp.png',
+    url: 'https://yelpcampsite.herokuapp.com',
+    detail: 'Node & Express'
   },
-
+  {
+    name: 'Camper Leaderboard',
+    img: './images/leaderboard.png',
+    url: 'https://amran16.github.io/leaderboard',
+    detail: 'React'
+  },
+  {
+  	name: 'Header Parser Microservice',
+  	img: './images/header_parser.png',
+    url: 'https://request-header-parser-fcc2.herokuapp.com',
+    detail: 'Node & Express'
+  },
   {
   	name: 'Wikipedia Viewer',
   	img: './images/wiki.png',
     url: 'https://amran16.github.io/wikipedia_viewer',
     detail: 'jquery & ajax'
   },
-
+  {
+  	name: 'Random Quote Machine',
+  	img: './images/quote.png',
+    url: 'http://codepen.io/maryam106/full/zNdXrV',
+    //url: 'https://amran16.github.io/random_quote',
+    detail: 'jquery & ajax'
+  },
   {
   	name: 'JavaScript Calculator',
   	img: './images/calculator.png',
@@ -35,14 +49,12 @@ var projects =[
     url: 'https://timestamp-microservice-fcc1.herokuapp.com',
     detail: 'Node & Express'
   },
-
   {
-  	name: 'Header Parser Microservice',
-  	img: './images/header_parser.png',
-    url: 'https://request-header-parser-fcc2.herokuapp.com',
-    detail: 'Node & Express'
+  	name: 'Pomodor Clock',
+  	img: './images/pomodor.png',
+    url: 'https://amran16.github.io/pomodoro',
+    detail: 'JavaScript'
   },
-
   {
   	name: 'URL Shortner Microservice',
   	img: './images/urlShortner.png',
@@ -63,27 +75,7 @@ var projects =[
     //url: 'https://amran16.github.io/markdown_previewer',
     url: 'http://codepen.io/maryam106/full/xgLbWE',
     detail: 'React'
-  },
-  {
-  	name: 'Camper Leaderboard',
-  	img: './images/leaderboard.png',
-    url: 'https://amran16.github.io/leaderboard',
-    detail: 'React'
-  },
-  {
-  	name: 'Pomodor Clock',
-  	img: './images/pomodor.png',
-    url: 'https://amran16.github.io/pomodoro',
-    detail: 'JavaScript'
-  },
-  {
-  	name: 'Yelpcamp',
-  	img: './images/yelpcamp.png',
-    url: 'https://yelpcampsite.herokuapp.com',
-    detail: 'Node & Express'
   }
-
-
 ]
 
 projects.map(function(item){
