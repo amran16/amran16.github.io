@@ -44,16 +44,16 @@ var projects =[
     detail: 'jQuery'
   },
   {
+    name: 'Pomodor Clock',
+    img: './images/pomodor.png',
+    url: 'https://amran16.github.io/pomodoro',
+    detail: 'JavaScript'
+  },
+  {
   	name: 'Timestamp Microservice',
   	img: './images/timestamp.png',
     url: 'https://timestamp-microservice-fcc1.herokuapp.com',
     detail: 'Node & Express'
-  },
-  {
-  	name: 'Pomodor Clock',
-  	img: './images/pomodor.png',
-    url: 'https://amran16.github.io/pomodoro',
-    detail: 'JavaScript'
   },
   {
   	name: 'URL Shortner Microservice',
@@ -61,14 +61,12 @@ var projects =[
     url: 'https://maryamnumbertwo.herokuapp.com',
     detail: 'Node, Express & MongoDB'
   },
-
   {
   	name: 'File Metadata Microservice',
   	img: './images/metadata.png',
     url: 'https://protected-escarpment-73474.herokuapp.com',
     detail: 'Node & Express'
   },
-
   {
   	name: 'Markdown Previwer',
   	img: './images/markdown.png',
