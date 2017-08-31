@@ -15,7 +15,7 @@ var projects =[
   {
     name: 'Camper Leaderboard',
     img: './images/leaderboard.png',
-    url: 'https://amran16.github.io/leaderboard',
+    url: 'https://amran16.github.io/camper-leaderboard',
     detail: 'React'
   },
   {
@@ -33,8 +33,7 @@ var projects =[
   {
   	name: 'Random Quote Machine',
   	img: './images/quote.png',
-    url: 'http://codepen.io/maryam106/full/zNdXrV',
-    //url: 'https://amran16.github.io/random_quote',
+    url: 'https://amran16.github.io/random_quote',
     detail: 'jquery & ajax'
   },
   {
@@ -70,8 +69,7 @@ var projects =[
   {
   	name: 'Markdown Previwer',
   	img: './images/markdown.png',
-    //url: 'https://amran16.github.io/markdown_previewer',
-    url: 'http://codepen.io/maryam106/full/xgLbWE',
+    url: 'https://amran16.github.io/Markdown_Project',
     detail: 'React'
   }
 ]
