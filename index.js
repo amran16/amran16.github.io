@@ -19,10 +19,10 @@ var projects =[
     detail: 'React'
   },
   {
-  	name: 'Header Parser Microservice',
-  	img: './images/header_parser.png',
-    url: 'https://request-header-parser-fcc2.herokuapp.com',
-    detail: 'Node & Express'
+    name: 'Recipe App',
+    img: './images/recipebox.png',
+    url: 'https://amran16.github.io/Recipe-Box',
+    detail: 'React'
   },
   {
   	name: 'Wikipedia Viewer',
@@ -49,16 +49,10 @@ var projects =[
     detail: 'JavaScript'
   },
   {
-  	name: 'Timestamp Microservice',
-  	img: './images/timestamp.png',
-    url: 'https://timestamp-microservice-fcc1.herokuapp.com',
+  	name: 'Header Parser Microservice',
+  	img: './images/header_parser.png',
+    url: 'https://request-header-parser-fcc2.herokuapp.com',
     detail: 'Node & Express'
-  },
-  {
-  	name: 'URL Shortner Microservice',
-  	img: './images/urlShortner.png',
-    url: 'https://maryamnumbertwo.herokuapp.com',
-    detail: 'Node, Express & MongoDB'
   },
   {
   	name: 'File Metadata Microservice',
@@ -66,12 +60,7 @@ var projects =[
     url: 'https://protected-escarpment-73474.herokuapp.com',
     detail: 'Node & Express'
   },
-  {
-  	name: 'Markdown Previwer',
-  	img: './images/markdown.png',
-    url: 'https://amran16.github.io/Markdown_Project',
-    detail: 'React'
-  }
+
 ]
 
 projects.map(function(item){
