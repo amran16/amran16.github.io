@@ -59,7 +59,7 @@ var projects =[
   	img: './images/metadata.png',
     url: 'https://protected-escarpment-73474.herokuapp.com',
     detail: 'Node & Express'
-  },
+  }
 
 ]
 
@@ -67,8 +67,8 @@ projects.map(function(item){
 
   var title = item.name,
       image = item.img,
-    linkUrl = item.url,
-    info = item.detail;
+      linkUrl = item.url,
+      info = item.detail;
     //<h7>${info}</h7>
 
 	$('.flex-container').append(`
