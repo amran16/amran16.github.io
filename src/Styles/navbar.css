@@ -1,0 +1,16 @@
+
+.ui.menu {
+  margin-bottom: 5rem;
+  background-color: #F3F1F0;
+}
+
+.ui.item {
+  font-weight: bold;
+  color: red;
+}
+
+.item:hover{
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}

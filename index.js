@@ -75,8 +75,9 @@ projects.map(function(item){
 			<div class='flex-item'>
        <a target='_blank' href=${linkUrl}>
         <img src=${image} alt=${title} class='image'>
-         <h3 class='title'>${title}</h3>
+          <h3 class='title'>${title}</h3>
+          <p>${info}</p>
         </a>
-			</div>
+      </div>
 		`)
 });
