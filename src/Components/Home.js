@@ -1,6 +1,6 @@
 import React from 'react';
 import { Icon } from 'semantic-ui-react';
-import { FaEnvelope } from "react-icons/fa";
+//import { FaEnvelope } from "react-icons/fa";
 
 import '../Styles/home.css'
 
