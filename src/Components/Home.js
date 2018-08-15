@@ -14,12 +14,11 @@ const Home = () => {
         <div className='social-container'>
           <a   href='mailto:maryamg99@gmail.com'
                target='_blank'
-            rel='noopener noreferrer'
-                >
+               rel='noopener noreferrer'
+          >
           <Icon  name='mail' size='big'/>
           Email
-           
-      </a>
+        </a>
           <a
             href='https://github.com/amran16'
             target='_blank'
@@ -27,7 +26,6 @@ const Home = () => {
           >
            <Icon  name='github square' size='big'/>
            Github
-             
           </a>
         <a  
            href='https://www.linkedin.com/in/maryamgulaid/'
@@ -36,7 +34,6 @@ const Home = () => {
           >
            <Icon name='linkedin' size='big'/>
            Linkedin
-           
           </a>
           </div>
       </div>

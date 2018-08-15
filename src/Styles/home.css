@@ -39,6 +39,19 @@
   }
 
 
+  @media all and (max-width: 430px){
+    .social-container{
+        flex-flow: column wrap;
+    }
+    .social-container a{
+        padding-top: 2em;
+    }
+    
+    
+}
+
+
+
  
 
    

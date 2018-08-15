@@ -48,24 +48,23 @@
     display: flex;
     flex-flow: row nowrap;
     justify-content: space-around;
-    align-items: flex-end;
     width: 30%;
     margin: 1rem;
     padding: 0.5rem;
 }
 
 .list-links-container a {
-    color: #FAF0E6;
+    color: #00BFFF;
     font-size: 1.2rem;
 }
 
 .list-links-container a:hover {
-    color: white;
+    color: #FAF0E6;
+    border-bottom: 1px solid white;
    
 }
 
   
-
 @media all and (max-width: 900px){
     .list-item{
         width: 80%; 
@@ -80,6 +79,10 @@
 @media all and (max-width: 600px){
     .list-item{
         width: 100%;
+    }
+
+    .list-links-container{
+         width: 30%;
     }
     
 }
