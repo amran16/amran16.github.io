@@ -57,18 +57,18 @@ const projects = [
     description: 'This app uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by 5 minutes breaks.'
   },
   {
-    name: 'Header Parser Microservice',
+    name: 'Header Parser',
     image: 'https://res.cloudinary.com/dv369opyl/image/upload/c_scale,h_320,w_600/v1533969032/header_parser.png',
     url: 'https://request-header-parser-fcc2.herokuapp.com',
     github: 'https://github.com/amran16/Header_Parser_Microservice',
-    description: 'This retrieves IP address, language, software, browser, version, and platform in a JSON format.'
+    description: 'Header Parser Microservice retrieves IP address, language, software, browser, version, and platform in a JSON format.'
   },
   {
-    name: 'File Metadata Microservice',
+    name: 'File Metadata',
     image: 'https://res.cloudinary.com/dv369opyl/image/upload/c_scale,h_320,w_600/v1534111747/metadata.png',
     url: 'https://protected-escarpment-73474.herokuapp.com',
     github: 'https://github.com/amran16/filemetadata',
-    description: 'This gives you information of the file you uplaod in this app.'
+    description: 'File Metadata Microservice gives you information of the file you uplaod in this app.'
   }
 
 ]

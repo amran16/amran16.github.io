@@ -8,7 +8,7 @@ const ProjectsListItem  = ({ project }) => {
 
   return (
      <li className='list-item'>
-      <img className='list-image' src={image} alt={name} /> 
+      <img className='list-image' src={image} alt={name}/> 
       <div className='list-content'>
         <h1>{name}</h1>
         <p>{description}</p>

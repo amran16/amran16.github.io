@@ -1,7 +1,6 @@
 import React from 'react';
 import { Icon } from 'semantic-ui-react';
 //import { FaEnvelope } from "react-icons/fa";
-
 import '../Styles/home.css'
 
 const Home = () => {
@@ -35,7 +34,7 @@ const Home = () => {
            <Icon name='linkedin' size='big'/>
            Linkedin
           </a>
-          </div>
+        </div>
       </div>
     </div>
   )

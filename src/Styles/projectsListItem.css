@@ -49,8 +49,6 @@
     flex-flow: row nowrap;
     justify-content: space-around;
     width: 30%;
-    margin: 1rem;
-    padding: 0.5rem;
 }
 
 .list-links-container a {
@@ -60,8 +58,7 @@
 
 .list-links-container a:hover {
     color: #FAF0E6;
-    border-bottom: 1px solid white;
-   
+    text-decoration: underline;
 }
 
   
@@ -81,8 +78,4 @@
         width: 100%;
     }
 
-    .list-links-container{
-         width: 30%;
-    }
-    
 }

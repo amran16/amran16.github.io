@@ -10,10 +10,8 @@ class App extends Component {
     return (
         <div className='Site'>
           <div className='Site-content'>
-            <div className=''>
               <Home />
               <Projects />
-            </div>
           </div>
          <Footer />
         </div>
