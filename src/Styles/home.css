@@ -11,16 +11,17 @@
   }
 
   .name{
-        font-family: fantasy;
+        font-family: Arial, Helvetica, sans-serif;
         font-size: 4rem;
   }
 
   .title{
-    font-family: fantasy;
+    font-family: Arial, Helvetica, sans-serif;
         font-size: 2rem;
   }
+
   .about{
-    font-family: fantasy;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 1.3rem;
     margin-top: 2rem;
     margin-bottom: 2rem;

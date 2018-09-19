@@ -9,7 +9,7 @@ const Home = () => {
       <div className='info-container'>
         <h1 className='name'>Maryam Gulaid</h1>
         <h3 className='title'>Full Stack Developer</h3>
-        <p className='about'>Hi, I am an online-taught developer thru various sources based in Oakland, CA.</p>
+        <p className='about'>Hi, I am a developer based in Oakland, CA.</p>
         <div className='social-container'>
           <a   href='mailto:maryamg99@gmail.com'
                target='_blank'
