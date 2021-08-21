@@ -30,7 +30,6 @@ const Footer = () => {
           </a>
       </div>
      </div>
-    <div className='copy'> &copy; 2018 Maryam Gulaid</div>
    </div>
   )
 }
